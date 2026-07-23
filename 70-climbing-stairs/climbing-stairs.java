@@ -9,10 +9,7 @@ class Solution {
             return 2;
         }
 
-        if(n==3){
-            return 3;
-        } 
-
+       
         int first=1;
         int second=2;
 
